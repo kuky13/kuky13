@@ -32,7 +32,7 @@ ao carinho, brinca e aprende com suas interações.
 
 ![Bolha em três estados: tranquila, feliz ao receber carinho e dormindo](assets/bolha-states.jpg)
 
-*Prévia visual do código em desenvolvimento: versão 0.2.1,
+*Prévia renderizada a partir do código da versão 0.2.1,
 [commit 8d67085](https://github.com/kuky13/bolha/commit/8d6708574ebe636b9ecce58e50dc89342a7ea4a4).
 O link de download aponta para a versão publicada mais recente.*
 
