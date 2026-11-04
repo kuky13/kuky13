@@ -1,11 +1,46 @@
-# Origem das imagens
+# Origem e uso das imagens
 
-- `banner.jpg`: composição estática com o avatar público atual da KukySolutions e a Bolha, renderizada a partir de seu componente original. A montagem preserva as cores e a geometria do personagem.
-- `bolha-states.jpg`: renderização do componente original `BolhaAvatar` nos estados `idle`, `happy` e `asleep`; o último usa a pose `sleeping`. Não é uma captura de execução do instalador publicado.
-- `onedrip-demo.jpg`: captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A própria interface identifica a cena como simulação com dados ilustrativos. A imagem não contém dados de uma conta de cliente.
+As imagens apresentam os projetos da KukySolutions. Elas não contêm dados de uma
+conta de cliente. As composições novas foram feitas com ilustrações já usadas
+publicamente pelo OneDrip e com uma renderização vetorial da prévia Qt da Bolha.
 
-As duas imagens com a Bolha usam as artes de André Ribeiro Lima (KukySolutions), sob [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Alterações para esta apresentação: composição, fundo e captura estática.
+| Arquivo | Origem e conteúdo |
+|---|---|
+| `banner.png` | Composição da identidade KukySolutions: avatar público atual, cores amarelo/roxo e Drippy do OneDrip. Preserva a marca e a personagem. |
+| `drippy-colmeia.png` | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
+| `onedrip-demo.jpg` | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
+| `bolha-qt-preview.png` | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0 em desenvolvimento**, não é captura de um instalador publicado. |
 
-Fonte do personagem: [Bolha, commit 8d6708574ebe636b9ecce58e50dc89342a7ea4a4](https://github.com/kuky13/bolha/tree/8d6708574ebe636b9ecce58e50dc89342a7ea4a4), versão do código 0.2.1. Consulte a [licença das artes](https://github.com/kuky13/bolha/blob/8d6708574ebe636b9ecce58e50dc89342a7ea4a4/licenses/BOLHA-ASSETS.md) e o [NOTICE](https://github.com/kuky13/bolha/blob/8d6708574ebe636b9ecce58e50dc89342a7ea4a4/NOTICE.md).
+## Arquivos de origem das composições
 
-O avatar e a marca KukySolutions e a apresentação do OneDrip foram incluídos por autorização do titular para este perfil. A licença das artes da Bolha não concede direitos adicionais sobre as outras marcas ou sobre o produto OneDrip.
+O [avatar público de kuky13](https://github.com/kuky13) foi mantido em
+`kuky-avatar.png`. Os arquivos abaixo são cópias, sem alteração, de imagens já
+usadas na [página pública da Drippy](https://onedrip.com.br/drippy):
+
+- [`drippy-presenting.webp`](https://onedrip.com.br/images/drippy-hive/drippy-presenting.webp)
+- [`bee-budget.webp`](https://onedrip.com.br/images/drippy-hive/bee-budget.webp)
+- [`bee-whatsapp.webp`](https://onedrip.com.br/images/drippy-hive/bee-whatsapp.webp)
+- [`bee-parts.webp`](https://onedrip.com.br/images/drippy-hive/bee-parts.webp)
+- [`bee-help.webp`](https://onedrip.com.br/images/drippy-hive/bee-help.webp)
+- [`onedrip-mark.webp`](https://onedrip.com.br/lovable-uploads/logoo.webp)
+
+Essas ilustrações foram inspecionadas antes do uso: retratam personagens,
+objetos e marcas, sem nomes, mensagens, endereços ou registros de clientes.
+O screenshot da landing usa valores fixos fictícios do componente público de
+demonstração. Não foram usadas capturas de áreas autenticadas do produto.
+
+## Créditos e licenças
+
+A Bolha usa artes de André Ribeiro Lima (KukySolutions), sob
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Alterações para este perfil: composição, fundo e renderização estática da
+prévia Qt sem boca. Consulte as [licenças](https://github.com/kuky13/bolha/tree/main/licenses)
+e os [créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
+O projeto reconhece o código original do
+[Pestinha, por mille-okws e contribuidores](https://github.com/mille-okws/pestinha).
+Nenhuma arte do Pestinha foi copiada para este perfil.
+
+O avatar, a marca KukySolutions, as ilustrações da Drippy/abelhas e a
+apresentação do OneDrip foram incluídos por autorização do titular para este
+perfil. Sua disponibilidade pública não concede licença geral de reutilização.
+A licença das artes da Bolha não se estende às marcas ou às outras ilustrações.
