@@ -32,11 +32,11 @@ Você confere os resultados e decide o que fazer. Na pesquisa de peças, consult
 
 Um pet experimental para Windows que passeia pela tela, reage ao carinho, brinca e aprende com suas interações.
 
-**Versão publicada: 0.2.1**, com Electron e React. A **0.3.0 está em desenvolvimento**, na migração para Python e Qt/PySide6.
+**Versão publicada: 0.3.0**, nativa em Python e Qt/PySide6.
 
 ![Prévia da Bolha em Qt, sem boca, em três estados: na sua companhia, recebendo carinho e descansando](assets/bolha-qt-preview.png)
 
-*Prévia visual da 0.3.0 em Qt. A imagem não representa o instalador publicado.*
+*Prévia vetorial da Bolha 0.3.0 em Qt.*
 
 [Ver versões e download](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código público](https://github.com/kuky13/bolha)
 
@@ -53,8 +53,8 @@ O motor da Bolha deriva do [Pestinha](https://github.com/mille-okws/pestinha), c
 | Estado e consultas | TanStack Query e Zustand |
 | Integrações | IA, WhatsApp e diagnóstico Android com ADB/WebUSB |
 | Qualidade | Vitest, Playwright e ESLint |
-| Bolha nativa, em desenvolvimento | Python, Qt/PySide6 e PyInstaller |
+| Bolha nativa | Python, Qt/PySide6 e PyInstaller |
 
 [Origem e atribuição das imagens](assets/README.md)
 
-*Versões conferidas em 4 de novembro de 2026.*
+*Versões conferidas em 3 de novembro de 2026.*

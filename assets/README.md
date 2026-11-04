@@ -9,7 +9,7 @@ publicamente pelo OneDrip e com uma renderização vetorial da prévia Qt da Bol
 | `banner.png` | Composição da identidade KukySolutions: avatar público atual, cores amarelo/roxo e Drippy do OneDrip. Preserva a marca e a personagem. |
 | Arte da colmeia | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
 | Demonstração pública | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
-| Prévia Qt da Bolha | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0 em desenvolvimento**, não é captura de um instalador publicado. |
+| Prévia Qt da Bolha | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0 publicada**, não é captura de um instalador. |
 
 ## Arquivos de origem das composições
 
