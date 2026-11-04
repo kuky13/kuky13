@@ -8,7 +8,7 @@ Desenvolvo o **OneDrip**, a assistente **Drippy** e projetos que tornam o comput
 
 [OneDrip](https://onedrip.com.br) · [Conheça a Drippy](https://onedrip.com.br/drippy) · [Código da Bolha](https://github.com/kuky13/bolha)
 
-## OneDrip — da entrada do aparelho à entrega
+## OneDrip: da entrada do aparelho à entrega
 
 Uma plataforma para assistências técnicas de celulares e eletrônicos: orçamentos, ordens de serviço, clientes, peças e atendimento organizados em um só lugar.
 
@@ -20,9 +20,9 @@ O produto é desenvolvido em repositórios privados.
 
 [Conhecer o OneDrip](https://onedrip.com.br) · [Explorar o OneDrip Parts](https://onedrip.com.br/parts)
 
-## Drippy — uma conversa, uma colmeia de especialistas
+## Drippy: uma conversa, uma colmeia de especialistas
 
-![A Drippy do OneDrip, gatinha de óculos e moletom verde-água, acompanhada das abelhas de orçamentos, atendimento, peças e ajuda](assets/drippy-colmeia.png)
+![A Drippy do OneDrip, gatinha de óculos e moletom verde água, acompanhada das abelhas de orçamentos, atendimento, peças e ajuda](assets/drippy-colmeia.png)
 
 A Drippy é a assistente de IA do OneDrip. A colmeia organiza módulos especializados para ajudar com **orçamentos, mensagens, peças, imagens, pesquisa, ajuda e diagnóstico Android**.
 
@@ -32,7 +32,7 @@ Você confere os resultados e decide o que fazer. Na pesquisa de peças, fontes 
 
 [Conhecer a Drippy e a colmeia](https://onedrip.com.br/drippy)
 
-## Bolha — companhia para o seu desktop
+## Bolha: companhia para o seu desktop
 
 Um pet experimental para Windows que passeia pela tela, reage ao carinho, brinca e aprende com suas interações.
 
@@ -46,7 +46,7 @@ A versão publicada **0.2.1 usa Electron e React**. A versão **0.3.0, em desenv
 
 ## Uma base que merece crédito
 
-A Bolha utiliza uma adaptação do motor do Pestinha, criado por mille-okws e seus contribuidores. A origem e as licenças estão documentadas no projeto.
+A Bolha utiliza uma adaptação do motor do Pestinha, criado pelo [autor original](https://github.com/mille-okws) e seus contribuidores. A origem e as licenças estão documentadas no projeto.
 
 [Conhecer o Pestinha](https://github.com/mille-okws/pestinha) · [Consultar os créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md)
 

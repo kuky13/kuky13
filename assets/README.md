@@ -7,22 +7,22 @@ publicamente pelo OneDrip e com uma renderização vetorial da prévia Qt da Bol
 | Arquivo | Origem e conteúdo |
 |---|---|
 | `banner.png` | Composição da identidade KukySolutions: avatar público atual, cores amarelo/roxo e Drippy do OneDrip. Preserva a marca e a personagem. |
-| `drippy-colmeia.png` | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
-| `onedrip-demo.jpg` | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
-| `bolha-qt-preview.png` | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0 em desenvolvimento**, não é captura de um instalador publicado. |
+| Arte da colmeia | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
+| Demonstração pública | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
+| Prévia Qt da Bolha | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0 em desenvolvimento**, não é captura de um instalador publicado. |
 
 ## Arquivos de origem das composições
 
 O [avatar público de kuky13](https://github.com/kuky13) foi mantido em
-`kuky-avatar.png`. Os arquivos abaixo são cópias, sem alteração, de imagens já
+uma cópia local do avatar. Os arquivos abaixo são cópias, sem alteração, de imagens já
 usadas na [página pública da Drippy](https://onedrip.com.br/drippy):
 
-- [`drippy-presenting.webp`](https://onedrip.com.br/images/drippy-hive/drippy-presenting.webp)
-- [`bee-budget.webp`](https://onedrip.com.br/images/drippy-hive/bee-budget.webp)
-- [`bee-whatsapp.webp`](https://onedrip.com.br/images/drippy-hive/bee-whatsapp.webp)
-- [`bee-parts.webp`](https://onedrip.com.br/images/drippy-hive/bee-parts.webp)
-- [`bee-help.webp`](https://onedrip.com.br/images/drippy-hive/bee-help.webp)
-- [`onedrip-mark.webp`](https://onedrip.com.br/lovable-uploads/logoo.webp)
+* [Drippy apresentando](https://onedrip.com.br/images/drippy-hive/drippy-presenting.webp)
+* [Abelha de orçamentos](https://onedrip.com.br/images/drippy-hive/bee-budget.webp)
+* [Abelha de mensagens](https://onedrip.com.br/images/drippy-hive/bee-whatsapp.webp)
+* [Abelha de peças](https://onedrip.com.br/images/drippy-hive/bee-parts.webp)
+* [Abelha de ajuda](https://onedrip.com.br/images/drippy-hive/bee-help.webp)
+* [Marca OneDrip](https://onedrip.com.br/lovable-uploads/logoo.webp)
 
 Essas ilustrações foram inspecionadas antes do uso: retratam personagens,
 objetos e marcas, sem nomes, mensagens, endereços ou registros de clientes.
@@ -32,12 +32,12 @@ demonstração. Não foram usadas capturas de áreas autenticadas do produto.
 ## Créditos e licenças
 
 A Bolha usa artes de André Ribeiro Lima (KukySolutions), sob
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+[licença das artes da Bolha](https://creativecommons.org/licenses/by-nc/4.0/).
 Alterações para este perfil: composição, fundo e renderização estática da
 prévia Qt sem boca. Consulte as [licenças](https://github.com/kuky13/bolha/tree/main/licenses)
 e os [créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
 O projeto reconhece o código original do
-[Pestinha, por mille-okws e contribuidores](https://github.com/mille-okws/pestinha).
+[Pestinha e seus contribuidores](https://github.com/mille-okws/pestinha).
 Nenhuma arte do Pestinha foi copiada para este perfil.
 
 O avatar, a marca KukySolutions, as ilustrações da Drippy/abelhas e a
