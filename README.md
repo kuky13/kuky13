@@ -1,58 +1,52 @@
-![KukySolutions, com o avatar original em amarelo e roxo e a Drippy, assistente do OneDrip](assets/banner.png)
+![KukySolutions, com o avatar original em amarelo e roxo e a Drippy do OneDrip](assets/banner.png)
 
 # KukySolutions
 
 **Software útil. Projetos com personalidade.**
 
-Desenvolvo o **OneDrip**, a assistente **Drippy** e projetos que tornam o computador um lugar mais interessante, como a **Bolha**.
+Desenvolvo o **OneDrip**, a assistente **Drippy** e a **Bolha**, um pet experimental para o desktop.
 
-[OneDrip](https://onedrip.com.br) · [Conheça a Drippy](https://onedrip.com.br/drippy) · [Código da Bolha](https://github.com/kuky13/bolha)
+[OneDrip](#onedrip) · [Drippy e a colmeia](#drippy-e-a-colmeia) · [Bolha](#bolha) · [Tecnologias](#tecnologias)
 
-## OneDrip: da entrada do aparelho à entrega
+## OneDrip
 
-Uma plataforma para assistências técnicas de celulares e eletrônicos: orçamentos, ordens de serviço, clientes, peças e atendimento organizados em um só lugar.
+Gestão para assistências técnicas de celulares e eletrônicos: orçamentos, ordens de serviço, clientes, peças e atendimento em um só lugar.
 
-[![Demonstração pública do OneDrip: orçamentos e ordens de serviço, com dados fictícios identificados como simulação](assets/onedrip-demo.jpg)](https://onedrip.com.br)
+[Conhecer o OneDrip](https://onedrip.com.br) · [Conhecer o OneDrip Parts](https://onedrip.com.br/parts)
 
-*Captura da apresentação pública do OneDrip. Simulação com dados fictícios.*
+[![Demonstração do OneDrip com orçamentos e ordens de serviço. Simulação com dados fictícios.](assets/onedrip-demo.jpg)](https://onedrip.com.br)
 
-O produto é desenvolvido em repositórios privados.
+*Demonstração pública com dados fictícios.*
 
-[Conhecer o OneDrip](https://onedrip.com.br) · [Explorar o OneDrip Parts](https://onedrip.com.br/parts)
+## Drippy e a colmeia
 
-## Drippy: uma conversa, uma colmeia de especialistas
+A **Drippy é a assistente de IA do OneDrip**. Sua colmeia reúne especialistas para apoiar orçamentos, atendimento, pesquisa de peças e o uso do sistema.
 
-![A Drippy do OneDrip, gatinha de óculos e moletom verde água, acompanhada das abelhas de orçamentos, atendimento, peças e ajuda](assets/drippy-colmeia.png)
+![Drippy, gatinha de óculos e moletom verde água, com as abelhas de orçamentos, mensagens, peças e ajuda](assets/drippy-colmeia.png)
 
-A Drippy é a assistente de IA do OneDrip. A colmeia organiza módulos especializados para ajudar com **orçamentos, mensagens, peças, imagens, pesquisa, ajuda e diagnóstico Android**.
-
-No código, um núcleo encaminha os pedidos aos especialistas, com mensagens correlacionadas e ferramentas do produto. Algumas tarefas usam regras e buscas locais; outras consultam serviços de IA. Cada pedido usa a ajuda de que precisa.
-
-Você confere os resultados e decide o que fazer. Na pesquisa de peças, fontes e evidências ajudam a avaliar a compatibilidade, que precisa ser verificada.
+Você confere os resultados e decide o que fazer. Na pesquisa de peças, consulte as fontes e verifique a compatibilidade.
 
 [Conhecer a Drippy e a colmeia](https://onedrip.com.br/drippy)
 
-## Bolha: companhia para o seu desktop
+## Bolha
 
 Um pet experimental para Windows que passeia pela tela, reage ao carinho, brinca e aprende com suas interações.
 
-![Prévia da Bolha sem boca, com olhos e orelhas em três estados: tranquila, feliz e dormindo](assets/bolha-qt-preview.png)
+**Versão publicada: 0.2.1**, com Electron e React. A **0.3.0 está em desenvolvimento**, na migração para Python e Qt/PySide6.
 
-*Prévia visual da versão 0.3.0 em desenvolvimento, desenhada em Qt. A migração nativa ainda está em andamento; o download aponta para a versão publicada.*
+![Prévia da Bolha em Qt, sem boca, em três estados: na sua companhia, recebendo carinho e descansando](assets/bolha-qt-preview.png)
 
-A versão publicada **0.2.1 usa Electron e React**. A versão **0.3.0, em desenvolvimento**, prepara a migração para **Python + Qt/PySide6**, com emoções, objetivos e memória locais.
+*Prévia visual da 0.3.0 em Qt. A imagem não representa o instalador publicado.*
 
-[Código da versão publicada](https://github.com/kuky13/bolha) · [Ver versões e download](https://github.com/kuky13/bolha/releases/latest)
+[Ver versões e download](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código público](https://github.com/kuky13/bolha)
 
-## Uma base que merece crédito
+### Créditos da Bolha
 
-A Bolha utiliza uma adaptação do motor do Pestinha, criado pelo [autor original](https://github.com/mille-okws) e seus contribuidores. A origem e as licenças estão documentadas no projeto.
+O motor da Bolha deriva do [Pestinha](https://github.com/mille-okws/pestinha), criado pelo [autor original](https://github.com/mille-okws) e seus contribuidores. Consulte a [autoria e as licenças da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
 
-[Conhecer o Pestinha](https://github.com/mille-okws/pestinha) · [Consultar os créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md)
+## Tecnologias
 
-## Tecnologias dos projetos
-
-| Onde | Tecnologias e uso |
+| Área | Tecnologias e uso |
 |---|---|
 | Interface do OneDrip | TypeScript, React, Vite, Tailwind CSS e Radix UI |
 | Dados e backend | Supabase, PostgreSQL e funções em Deno/TypeScript |
@@ -61,4 +55,6 @@ A Bolha utiliza uma adaptação do motor do Pestinha, criado pelo [autor origina
 | Qualidade | Vitest, Playwright e ESLint |
 | Bolha nativa, em desenvolvimento | Python, Qt/PySide6 e PyInstaller |
 
-<sub>[Origem e atribuição das imagens](assets/README.md)</sub>
+[Origem e atribuição das imagens](assets/README.md)
+
+*Versões conferidas em 4 de novembro de 2026.*
