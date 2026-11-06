@@ -9,7 +9,7 @@ publicamente pelo OneDrip e com uma renderização vetorial da prévia Qt da Bol
 | `banner.png` | Composição da identidade KukySolutions: avatar público atual, cores amarelo/roxo e Drippy do OneDrip. Preserva a marca e a personagem. |
 | Arte da colmeia | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
 | Demonstração pública | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
-| Prévia Qt da Bolha | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0 publicada**, não é captura de um instalador. |
+| Prévia Qt da Bolha | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0**, não é captura de um instalador. A versão publicada mais recente é a 0.4.4. |
 
 ## Arquivos de origem das composições
 
@@ -31,16 +31,17 @@ demonstração. Não foram usadas capturas de áreas autenticadas do produto.
 
 ## Créditos e licenças
 
-A Bolha usa artes de André Ribeiro Lima (KukySolutions), sob
-[licença das artes da Bolha](https://creativecommons.org/licenses/by-nc/4.0/).
-Alterações para este perfil: composição, fundo e renderização estática da
-prévia Qt sem boca. Consulte as [licenças](https://github.com/kuky13/bolha/tree/main/licenses)
-e os [créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
+A prévia e os recursos próprios da Bolha são de André Ribeiro Lima
+(KukySolutions), sob GPL versão 3 ou posterior. Alterações para este perfil:
+composição, fundo e renderização estática da prévia Qt sem boca. Consulte as
+[licenças](https://github.com/kuky13/bolha/tree/main/licenses) e os
+[créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
 O projeto reconhece o código original do
 [Pestinha e seus contribuidores](https://github.com/mille-okws/pestinha).
 Nenhuma arte do Pestinha foi copiada para este perfil.
 
-O avatar, a marca KukySolutions, as ilustrações da Drippy/abelhas e a
+O avatar, a marca KukySolutions, as ilustrações da Drippy e das abelhas e a
 apresentação do OneDrip foram incluídos por autorização do titular para este
-perfil. Sua disponibilidade pública não concede licença geral de reutilização.
-A licença das artes da Bolha não se estende às marcas ou às outras ilustrações.
+perfil. Não fazem parte da licença da Bolha e sua publicação não concede licença
+geral de reutilização. Os guias privados de referência da Drippy não foram
+copiados para o perfil, para a Bolha ou para seus releases.

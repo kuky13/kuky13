@@ -32,17 +32,19 @@ Você confere os resultados e decide o que fazer. Na pesquisa de peças, consult
 
 Um pet experimental para Windows que passeia pela tela, reage ao carinho, brinca e aprende com suas interações.
 
-**Versão publicada: 0.3.0**, nativa em Python e Qt/PySide6.
+**Versão publicada: 0.4.4**, nativa em Python e Qt/PySide6.
 
 ![Prévia da Bolha em Qt, sem boca, em três estados: na sua companhia, recebendo carinho e descansando](assets/bolha-qt-preview.png)
 
-*Prévia vetorial da Bolha 0.3.0 em Qt.*
+*Prévia da versão 0.3.0. A versão publicada mais recente é a 0.4.4.*
 
 [Ver versões e download](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código público](https://github.com/kuky13/bolha)
 
 ### Créditos da Bolha
 
-O motor da Bolha deriva do [Pestinha](https://github.com/mille-okws/pestinha), criado pelo [autor original](https://github.com/mille-okws) e seus contribuidores. Consulte a [autoria e as licenças da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
+A Bolha é um fork comunitário baseado no sistema do [Pestinha](https://github.com/mille-okws/pestinha), criado por [mille-okws](https://github.com/mille-okws) com a colaboração da comunidade. O cérebro, a física e partes da aplicação do Pestinha foram a base para desenvolver a Bolha.
+
+O código, as artes e as animações próprias da Bolha são abertas sob GPL versão 3 ou posterior, a mesma licença do Pestinha. Contribuições da comunidade são bem vindas. Os guias privados de referência da Drippy não são publicados. Veja os [créditos e licenças](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
 
 ## Tecnologias
 
@@ -57,4 +59,4 @@ O motor da Bolha deriva do [Pestinha](https://github.com/mille-okws/pestinha), c
 
 [Origem e atribuição das imagens](assets/README.md)
 
-*Versões conferidas em 3 de novembro de 2026.*
+*Versão da Bolha conferida em 6 de novembro de 2026.*
