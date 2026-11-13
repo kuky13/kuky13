@@ -32,13 +32,13 @@ Você confere os resultados e decide o que fazer. Na pesquisa de peças, consult
 
 Uma mascote que passeia pela tela, brinca com um amendoim e aprende com carinho e outras interações. O cérebro de 470 neurônios roda no próprio aparelho.
 
-**Versão publicada: 0.4.10**, com instalador Windows e APK Android.
+**Versão publicada: 0.5.0**, com instalador Windows e APK Android.
 
 ![Oito expressões da Bolha: repouso, piscadela, carinho, susto, bocejo, soluço, sono e mastigação](assets/bolha-050-expressoes.png)
 
-*Prévia da 0.5.0 em preparação. A boca fica fechada em repouso e abre por instantes em reações como susto e bocejo. A próxima versão também traz uma Central e um painel neural no Android.*
+*Expressões da Bolha 0.5.0. A boca fica fechada em repouso e abre por instantes em reações como susto e bocejo. No Android, a Central reúne os controles e o painel mostra os 470 neurônios em atividade.*
 
-[Baixar a versão estável](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código](https://github.com/kuky13/bolha) · [Acompanhar a 0.5.0](https://github.com/kuky13/bolha/pull/4)
+[Baixar a versão estável](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código](https://github.com/kuky13/bolha) · [Novidades da 0.5.0](https://github.com/kuky13/bolha/releases/tag/v0.5.0)
 
 ### Créditos da Bolha
 
