@@ -4,7 +4,7 @@
 
 **Software útil. Projetos com personalidade.**
 
-Desenvolvo o **OneDrip**, a assistente **Drippy** e a **Bolha**, um pet experimental para o desktop.
+Desenvolvo o **OneDrip**, a assistente **Drippy** e a **Bolha**, uma mascote de código aberto para Windows e Android.
 
 [OneDrip](#onedrip) · [Drippy e a colmeia](#drippy-e-a-colmeia) · [Bolha](#bolha) · [Tecnologias](#tecnologias)
 
@@ -30,15 +30,15 @@ Você confere os resultados e decide o que fazer. Na pesquisa de peças, consult
 
 ## Bolha
 
-Um pet experimental para Windows que passeia pela tela, reage ao carinho, brinca e aprende com suas interações.
+Uma mascote que passeia pela tela, brinca com um amendoim e aprende com carinho e outras interações. O cérebro de 470 neurônios roda no próprio aparelho.
 
-**Versão publicada: 0.4.4**, nativa em Python e Qt/PySide6.
+**Versão publicada: 0.5.0**, com instalador Windows e APK Android.
 
-![Prévia da Bolha em Qt, sem boca, em três estados: na sua companhia, recebendo carinho e descansando](assets/bolha-qt-preview.png)
+![Oito expressões da Bolha: repouso, piscadela, carinho, susto, bocejo, soluço, sono e mastigação](assets/bolha-050-expressoes.png)
 
-*Prévia da versão 0.3.0. A versão publicada mais recente é a 0.4.4.*
+*Expressões da Bolha 0.5.0. A boca fica fechada em repouso e abre por instantes em reações como susto e bocejo. No Android, a Central reúne os controles e o painel mostra os 470 neurônios em atividade.*
 
-[Ver versões e download](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código público](https://github.com/kuky13/bolha)
+[Baixar a versão estável](https://github.com/kuky13/bolha/releases/latest) · [Explorar o código](https://github.com/kuky13/bolha) · [Novidades da 0.5.0](https://github.com/kuky13/bolha/releases/tag/v0.5.0)
 
 ### Créditos da Bolha
 
@@ -55,8 +55,8 @@ O código, as artes e as animações próprias da Bolha são abertas sob GPL ver
 | Estado e consultas | TanStack Query e Zustand |
 | Integrações | IA, WhatsApp e diagnóstico Android com ADB/WebUSB |
 | Qualidade | Vitest, Playwright e ESLint |
-| Bolha nativa | Python, Qt/PySide6 e PyInstaller |
+| Bolha | Python, NumPy e Qt/PySide6 no Windows; Java, Canvas e Chaquopy no Android |
 
 [Origem e atribuição das imagens](assets/README.md)
 
-*Versão da Bolha conferida em 6 de novembro de 2026.*
+*Versão estável conferida em 13 de novembro de 2026.*
