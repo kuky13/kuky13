@@ -9,7 +9,7 @@ publicamente pelo OneDrip e com uma renderização vetorial da prévia Qt da Bol
 | `banner.png` | Composição da identidade KukySolutions: avatar público atual, cores amarelo/roxo e Drippy do OneDrip. Preserva a marca e a personagem. |
 | Arte da colmeia | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
 | Demonstração pública | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
-| Prévia Qt da Bolha | Renderização em Qt de três expressões aprovadas da Bolha, sem boca. **Prévia visual da versão 0.3.0**, não é captura de um instalador. A versão publicada mais recente é a 0.4.4. |
+| `bolha-050-expressoes.png` | Renderização Qt real de oito poses da Bolha 0.5.0 em preparação, com arte de André Ribeiro Lima (KukySolutions). [Licença GPL versão 3 ou posterior](https://github.com/kuky13/bolha/blob/main/licenses/BOLHA-ASSETS.md). O [PR público da Bolha](https://github.com/kuky13/bolha/pull/4) contém o código e as curvas das expressões. |
 
 ## Arquivos de origem das composições
 
