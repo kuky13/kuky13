@@ -1,47 +1,32 @@
-# Origem e uso das imagens
+# Image provenance and usage
 
-As imagens apresentam os projetos da KukySolutions. Elas não contêm dados de uma
-conta de cliente. As composições novas foram feitas com ilustrações já usadas
-publicamente pelo OneDrip e com uma renderização vetorial da prévia Qt da Bolha.
+[Português](README.pt-BR.md)
 
-| Arquivo | Origem e conteúdo |
+The images present Kuky Solutions projects. They contain no customer-account data. Existing compositions use publicly displayed OneDrip illustrations and a real Qt preview rendering of Bolha.
+
+| File | Origin and content |
 |---|---|
-| `banner.png` | Composição da identidade KukySolutions: avatar público atual, cores amarelo/roxo e Drippy do OneDrip. Preserva a marca e a personagem. |
-| Arte da colmeia | Composição com a Drippy e quatro especialistas da colmeia: orçamentos, mensagens, peças e ajuda. Mostra uma seleção das abelhas, sem simular uma execução do sistema. |
-| Demonstração pública | Captura da [apresentação pública do OneDrip](https://onedrip.com.br/landing), em 3 de novembro de 2026. A interface identifica a cena como simulação com dados ilustrativos. |
-| `bolha-050-expressoes.png` | Renderização Qt real de oito poses da Bolha 0.5.0, com arte de André Ribeiro Lima (KukySolutions). [Licença GPL versão 3 ou posterior](https://github.com/kuky13/bolha/blob/main/licenses/BOLHA-ASSETS.md). O [código da versão 0.5.0](https://github.com/kuky13/bolha/tree/v0.5.0) contém as curvas das expressões. |
+| `banner.png` | Historical Kuky Solutions composition with the public avatar, yellow/purple colours and Drippy. Preserved as an original asset; the profile now uses an authored violet SVG banner. |
+| `drippy-colmeia.png` | Drippy with four hive specialists: quotes, messaging, parts and help. An illustration, not a live system execution. |
+| `onedrip-demo.jpg` | Screenshot of the [public OneDrip presentation](https://onedrip.com.br/landing), captured November 3, 2026. The interface labels the example as a simulation using sample data. |
+| `bolha-050-expressoes.png` | Real Qt rendering of eight Bolha 0.5.0 poses, with artwork by André Ribeiro Lima. [GPL version 3 or later](https://github.com/kuky13/bolha/blob/main/licenses/BOLHA-ASSETS.md). The [0.5.0 source](https://github.com/kuky13/bolha/tree/v0.5.0) contains these expression curves. This is historical imagery, not a claim about the latest release. |
+| `../cards/*.svg` | New typographic portfolio cards rendered by `scripts/render-cards.py`. Self-contained SVGs, no scripts, external resources, tracking or live statistics. `../cards/static/` contains still-image alternatives. |
 
-## Arquivos de origem das composições
+## Source illustrations
 
-O [avatar público de kuky13](https://github.com/kuky13) foi mantido em
-uma cópia local do avatar. Os arquivos abaixo são cópias, sem alteração, de imagens já
-usadas na [página pública da Drippy](https://onedrip.com.br/drippy):
+The [public kuky13 avatar](https://github.com/kuky13) is preserved locally. The following are unchanged copies of images already used on the [public Drippy page](https://onedrip.com.br/drippy):
 
-* [Drippy apresentando](https://onedrip.com.br/images/drippy-hive/drippy-presenting.webp)
-* [Abelha de orçamentos](https://onedrip.com.br/images/drippy-hive/bee-budget.webp)
-* [Abelha de mensagens](https://onedrip.com.br/images/drippy-hive/bee-whatsapp.webp)
-* [Abelha de peças](https://onedrip.com.br/images/drippy-hive/bee-parts.webp)
-* [Abelha de ajuda](https://onedrip.com.br/images/drippy-hive/bee-help.webp)
-* [Marca OneDrip](https://onedrip.com.br/lovable-uploads/logoo.webp)
+- [Presenting Drippy](https://onedrip.com.br/images/drippy-hive/drippy-presenting.webp)
+- [Quote bee](https://onedrip.com.br/images/drippy-hive/bee-budget.webp)
+- [Messaging bee](https://onedrip.com.br/images/drippy-hive/bee-whatsapp.webp)
+- [Parts bee](https://onedrip.com.br/images/drippy-hive/bee-parts.webp)
+- [Help bee](https://onedrip.com.br/images/drippy-hive/bee-help.webp)
+- [OneDrip mark](https://onedrip.com.br/lovable-uploads/logoo.webp)
 
-Essas ilustrações foram inspecionadas antes do uso: retratam personagens,
-objetos e marcas, sem nomes, mensagens, endereços ou registros de clientes.
-O screenshot da landing usa valores fixos fictícios do componente público de
-demonstração. Não foram usadas capturas de áreas autenticadas do produto.
+The illustrations were inspected before use: characters, objects and brands, with no customer names, messages, addresses or records. The public landing screenshot uses fixed fictional values. No authenticated product screenshots were used.
 
-## Créditos e licenças
+## Credits and licenses
 
-A prévia e os recursos próprios da Bolha são de André Ribeiro Lima
-(KukySolutions), sob GPL versão 3 ou posterior. Alterações para este perfil:
-composição, fundo e renderização estática da prévia Qt sem boca. Consulte as
-[licenças](https://github.com/kuky13/bolha/tree/main/licenses) e os
-[créditos da Bolha](https://github.com/kuky13/bolha/blob/main/NOTICE.md).
-O projeto reconhece o código original do
-[Pestinha e seus contribuidores](https://github.com/mille-okws/pestinha).
-Nenhuma arte do Pestinha foi copiada para este perfil.
+Bolha’s preview and original assets are by André Ribeiro Lima, under GPL version 3 or later. Profile-specific changes include composition, background and a static mouthless Qt rendering. See [licenses](https://github.com/kuky13/bolha/tree/main/licenses) and [Bolha credits](https://github.com/kuky13/bolha/blob/main/NOTICE.md). The project acknowledges the original [Pestinha code and contributors](https://github.com/mille-okws/pestinha). No Pestinha artwork was copied into this profile.
 
-O avatar, a marca KukySolutions, as ilustrações da Drippy e das abelhas e a
-apresentação do OneDrip foram incluídos por autorização do titular para este
-perfil. Não fazem parte da licença da Bolha e sua publicação não concede licença
-geral de reutilização. Os guias privados de referência da Drippy não foram
-copiados para o perfil, para a Bolha ou para seus releases.
+The avatar, Kuky Solutions brand, Drippy and bee illustrations, and OneDrip presentation were included with the owner’s authorization for this profile. They are separate from Bolha’s license; publication does not grant a general reuse license. Private Drippy reference guides were not copied into this profile, Bolha or its releases.
