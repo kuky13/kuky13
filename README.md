@@ -1,6 +1,6 @@
-[![Kuky Solutions · André Ribeiro · Curiosity turned into creation.](cards/banner-en.svg)](https://kuky.solutions)
+[![kuky · André Ribeiro · Curiosity turned into creation.](cards/banner-en.svg)](https://kuky.solutions)
 
-# Kuky
+# kuky
 
 André Ribeiro
 
