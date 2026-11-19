@@ -44,7 +44,7 @@ copy = {
 
 }
 for lang,items in copy.items():
-    render(f'banner-{lang}', 'Kuky', ['André Ribeiro', 'Curiosity turned into creation.'], banner=True)
+    render(f'banner-{lang}', 'kuky', ['André Ribeiro', 'Curiosity turned into creation.'], banner=True)
     for title,lines,key in items:
         render(f'{key}-{lang}',title,lines,icons[key])
 assert len(list(OUT.glob('*.svg'))) == 4
