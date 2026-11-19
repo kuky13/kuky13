@@ -12,7 +12,7 @@ I explore ideas, tell stories, and build solutions, from the workbench to the sc
 
 ## What I do
 
-[![Filmmaking and video editing: stories shaped through cuts, pacing and sound. Video essays, motion, ads and short-form.](cards/film-en.svg)](https://kuky.solutions/#competencias)
+[![Filmmaking and video editing: stories shaped through cuts, pacing and sound. Video essays, motion, ads and short form.](cards/film-en.svg)](https://kuky.solutions/#competencias)
 
 [![Software development: interfaces and tools grounded in everyday work. React, TypeScript, Supabase and PostgreSQL.](cards/code-en.svg)](https://kuky.solutions/#projetos)
 
@@ -44,13 +44,22 @@ I develop **OneDrip**, software for phone and electronics repair shops. It bring
 
 ### Bolha
 
-A community mascot for Windows and Android. Bolha wanders across the screen, plays and reacts to pats, surprises and other interactions, with original art and animations.
+A community mascot for Windows and Android. Bolha wanders across the screen, plays and learns locally from your interactions.
 
-![Eight expressions from Bolha 0.5.0: rest, wink, affection, surprise, yawn, hiccup, sleep and chewing.](assets/bolha-050-expressoes.png)
+**Preview of version 0.5.4:** gradual anger, gentler pointer chewing on the PC, clearer speech and thought bubbles, and a revolution with a sign and bouncing toys. The settings include individual activity controls and 18 guided tests that preserve your mascot’s saved memory.
 
-*Historical artwork from version 0.5.0. Use the latest-release link for current downloads.*
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/bolha-054-still.png">
+  <img src="assets/bolha-054-animation.gif" alt="Bolha 0.5.4: a readable sign beside the small mascot, a revolution with bouncing balls, anger growing while held, and two gentle chewing movements." width="720">
+</picture>
 
-[Latest stable release](https://github.com/kuky13/bolha/releases/latest) · [Source code](https://github.com/kuky13/bolha)
+[View the still scenes](assets/bolha-054-still.png) · [Open the animation](assets/bolha-054-animation.gif)
+
+*Directed scenes rendered by the real Qt application on Linux, with the interface in Portuguese. These images show the desktop renderer; they are not Android or Windows device recordings.*
+
+Bolha is an open source fork of [Pestinha](https://github.com/mille-okws/pestinha), created by [mille-okws](https://github.com/mille-okws) and contributors. Bolha’s code, original artwork and animations are available under **GNU GPL version 3 or later**. [Credits and licenses](https://github.com/kuky13/bolha/blob/main/NOTICE.md). Community contributions are welcome.
+
+[Windows installer 0.5.4](https://github.com/kuky13/bolha/releases/download/v0.5.4/Bolha-Setup-0.5.4-x64.exe) · [Android APK 0.5.4](https://github.com/kuky13/bolha/releases/download/v0.5.4/Bolha-0.5.4-Android.apk) · [Latest stable release](https://github.com/kuky13/bolha/releases/latest) · [Source code](https://github.com/kuky13/bolha)
 
 ## Tools I work with
 
