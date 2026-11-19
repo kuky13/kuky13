@@ -1,7 +1,5 @@
 # Image provenance and usage
 
-[Português](README.pt-BR.md)
-
 The images present Kuky Solutions projects. They contain no customer-account data. Existing compositions use publicly displayed OneDrip illustrations and a real Qt preview rendering of Bolha.
 
 | File | Origin and content |
