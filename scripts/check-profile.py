@@ -5,7 +5,7 @@ import subprocess
 import os
 import xml.etree.ElementTree as ET
 root = Path(__file__).resolve().parents[1]
-for readme in [root/'README.md', root/'README.pt-BR.md', root/'assets/README.md', root/'assets/README.pt-BR.md']:
+for readme in [root/'README.md', root/'assets/README.md']:
     for target in re.findall(r'\]\(([^)]+)\)',readme.read_text()):
         if not target.startswith(('https://','#')):
             assert (readme.parent/target).exists(), (readme,target)
@@ -22,4 +22,4 @@ for static in [False,True]:
         assert 'prefers-reduced-motion' in text or static
 assert 'releases/latest' in (root/'README.md').read_text()
 assert not (root/'.github/workflows').exists()
-print('Profile links, 16 SVGs, accessibility metadata and deterministic rendering checked.')
+print('Profile links, 8 SVGs, accessibility metadata and deterministic rendering checked.')

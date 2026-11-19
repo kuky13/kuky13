@@ -40,12 +40,12 @@ icons = {
     'repair': '<g fill="none" stroke="#A78BFA" stroke-width="3"><rect x="44" y="43" width="31" height="56" rx="6"/><path d="M54 91h10M54 51h10"/></g>'
 }
 copy = {
-'en': [('Filmmaking & video editing', ['Stories shaped through cuts, pacing and sound.', 'Video essays · Motion · Ads · Short-form'], 'film'), ('Software development', ['Interfaces and tools grounded in everyday work.', 'React · TypeScript · Supabase · PostgreSQL'], 'code'), ('Phone repair', ['3 years at Oliveira Imports · 1,300+ phones repaired', 'Diagnostics · Repair · Time at the workbench'], 'repair')],
-'pt': [('Audiovisual & edição de vídeo', ['Histórias construídas com cortes, ritmo e som.', 'Vídeo ensaio · Motion · Criativos · Vídeos curtos'], 'film'), ('Desenvolvimento de software', ['Interfaces e ferramentas para o trabalho real.', 'React · TypeScript · Supabase · PostgreSQL'], 'code'), ('Reparo de celulares', ['3 anos na Oliveira Imports · Mais de 1.300 reparos', 'Diagnóstico · Reparo · Experiência de bancada'], 'repair')]
+'en': [('Filmmaking & video editing', ['Stories shaped through cuts, pacing and sound.', 'Cuts · Pacing · Captions · Sound'], 'film'), ('Software development', ['Interfaces and tools grounded in everyday work.', 'React · TypeScript · Supabase · PostgreSQL'], 'code'), ('Phone repair', ['3 years at Oliveira Imports · 1,300+ phones repaired', 'Diagnostics · Repair · Time at the workbench'], 'repair')],
+
 }
 for lang,items in copy.items():
-    render(f'banner-{lang}', 'Kuky Solutions', ['André Ribeiro Lima', 'Curiosity turned into creation.' if lang=='en' else 'Curiosidade que vira criação.'], banner=True)
+    render(f'banner-{lang}', 'Kuky', ['André Ribeiro', 'Curiosity turned into creation.'], banner=True)
     for title,lines,key in items:
         render(f'{key}-{lang}',title,lines,icons[key])
-assert len(list(OUT.glob('*.svg'))) == 8
-print(f'Rendered and checked 8 {"static" if STATIC else "animated"} cards in {OUT}')
+assert len(list(OUT.glob('*.svg'))) == 4
+print(f'Rendered and checked 4 {"static" if STATIC else "animated"} cards in {OUT}')
